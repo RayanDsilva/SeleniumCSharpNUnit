@@ -32,6 +32,7 @@ namespace NUnitSeleniumC_Training.Selenium
             string path = "C:\\Users\\raprs\\Downloads" + text;
             Console.WriteLine(path);
             Assert.That(File.Exists(path));
+            Console.WriteLine("Successfully Downloaded");
         }
         [TearDown]
         public void tearDownBrowser()
