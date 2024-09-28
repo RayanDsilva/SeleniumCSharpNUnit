@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using OpenQA.Selenium.Edge;
 using OpenQA.Selenium;
 using WebDriverManager.DriverConfigs.Impl;
+using OpenQA.Selenium.Chrome;
 
 namespace NUnitSeleniumC_Training.Selenium
 {
@@ -15,9 +16,9 @@ namespace NUnitSeleniumC_Training.Selenium
         [SetUp]
         public void startbrowser()
         {
-            new WebDriverManager.DriverManager().SetUpDriver(new EdgeConfig());
+            new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
             //Initialize web driver
-            driver = new EdgeDriver();
+            driver = new ChromeDriver();
             //Maximize the window
             driver.Manage().Window.Maximize();
             //Launch browser

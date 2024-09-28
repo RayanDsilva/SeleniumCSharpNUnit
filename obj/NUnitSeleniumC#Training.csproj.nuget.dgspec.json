@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj",
         "projectName": "NUnitSeleniumC#Training",
         "projectPath": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj",
-        "packagesPath": "C:\\Users\\raprs\\.nuget\\packages\\",
+        "packagesPath": "C:\\Windows\\system32\\config\\systemprofile\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\raprs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

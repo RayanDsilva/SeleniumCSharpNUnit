@@ -133,3 +133,4 @@ C:\Users\raprs\source\repos\NUnitSeleniumC#Training\bin\Debug\net8.0\System.Secu
 C:\Users\raprs\source\repos\NUnitSeleniumC#Training\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\raprs\source\repos\NUnitSeleniumC#Training\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\raprs\source\repos\NUnitSeleniumC#Training\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\raprs\source\repos\NUnitSeleniumC#Training\obj\Debug\net8.0\NUnitSeleniumC#Training.sourcelink.json

@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NUnitSeleniumC_Training.Utilites;
 using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Edge;
 using WebDriverManager.DriverConfigs.Impl;
 
@@ -16,9 +17,9 @@ namespace NUnitSeleniumC_Training.Assignment
         [SetUp]
         public void startbrowser()
         {
-            new WebDriverManager.DriverManager().SetUpDriver(new EdgeConfig());
+            new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
             //Initialize web driver
-            driver = new EdgeDriver();
+            driver = new ChromeDriver();
             //Launch browser
             driver.Navigate().GoToUrl("https://parabank.parasoft.com/parabank/index.htm");
             //Maximize the window

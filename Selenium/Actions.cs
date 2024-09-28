@@ -8,6 +8,7 @@ using OpenQA.Selenium;
 using WebDriverManager.DriverConfigs.Impl;
 using AngleSharp.Dom;
 using OpenQA.Selenium.Interactions;
+using OpenQA.Selenium.Chrome;
 
 namespace NUnitSeleniumC_Training.Selenium
 {
@@ -17,9 +18,9 @@ namespace NUnitSeleniumC_Training.Selenium
         [SetUp]
         public void startbrowser()
         {
-            new WebDriverManager.DriverManager().SetUpDriver(new EdgeConfig());
+            new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
             //Initialize web driver
-            driver = new EdgeDriver();
+            driver = new ChromeDriver();
             driver.Navigate().GoToUrl("https://amazon.in/");
             driver.Manage().Window.Maximize();
         }

@@ -1,0 +1,12 @@
+{
+  "uuid": "fdeca04c-7a8e-41da-bd94-a1b17e69896c",
+  "name": "NUnitSeleniumC_Training.NUnitTest.CalciUnitTesting.DivTest",
+  "children": [
+    "4e2f18ff-7e46-4459-b25c-a358ea3f217e"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1727421578200,
+  "stop": 1727421578208
+}

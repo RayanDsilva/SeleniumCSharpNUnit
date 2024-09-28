@@ -7,6 +7,7 @@ using OpenQA.Selenium.Edge;
 using OpenQA.Selenium.Support.UI;
 using OpenQA.Selenium;
 using WebDriverManager.DriverConfigs.Impl;
+using OpenQA.Selenium.Chrome;
 
 namespace NUnitSeleniumC_Training.Selenium
 {
@@ -16,9 +17,9 @@ namespace NUnitSeleniumC_Training.Selenium
         [SetUp]
         public void startbrowser()
         {
-            new WebDriverManager.DriverManager().SetUpDriver(new EdgeConfig());
+            new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
             //Initialize web driver
-            driver = new EdgeDriver();
+            driver = new ChromeDriver();
             driver.Navigate().GoToUrl("https://the-internet.herokuapp.com/upload");
             driver.Manage().Window.Maximize();
         }

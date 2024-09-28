@@ -3,156 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\assignment\\assigment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:assignment\\assigment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\launchedge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\launchedge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\launchchrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\launchchrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\utilites\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:utilites\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\categorytesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\categorytesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\datadriventesting\\logininvalidcred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:datadriventesting\\logininvalidcred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\datadriventesting\\testparaforlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:datadriventesting\\testparaforlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\datadriventesting\\testparamexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:datadriventesting\\testparamexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\datadriventesting\\testparatestcasesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:datadriventesting\\testparatestcasesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\datadriventesting\\testparausingtestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:datadriventesting\\testparausingtestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\datadriventesting\\assign1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:datadriventesting\\assign1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\utilites\\excelread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:utilites\\excelread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\browsercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\browsercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\assignment\\assigment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:assignment\\assigment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\assignwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\assignwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\datadriventesting\\testparausingtestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:datadriventesting\\testparausingtestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\assign2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\assign2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\datadriventesting\\testparatestcasesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:datadriventesting\\testparatestcasesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\assign1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\assign1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\datadriventesting\\testparamexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:datadriventesting\\testparamexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\datadriventesting\\testparaforlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:datadriventesting\\testparaforlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\tableaccess2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\tableaccess2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\tableaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\tableaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\assignframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\assignframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\assignfacebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\assignfacebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\clicknhold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\clicknhold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\dragndrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\dragndrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\datepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\datepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\radiocheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\radiocheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\multiplecheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\multiplecheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\filedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\filedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\alerthandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\alerthandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\navigationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\navigationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\assertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\assertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\calciunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\calciunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\testorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\testorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\datadriventesting\\logininvalidcred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:datadriventesting\\logininvalidcred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\unittestcalci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -163,12 +43,120 @@
       "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\testorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\testorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\setupteardown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\setupteardown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\categorytesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\categorytesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\calciunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\calciunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\nunittest\\assertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:nunittest\\assertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\alerthandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\alerthandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\assign1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\assign1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\assign2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\assign2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\assignfacebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\assignfacebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\assignframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\assignframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\assignwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\assignwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\browsercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\browsercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\clicknhold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\clicknhold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\datepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\datepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\dragndrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\dragndrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\filedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\filedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\launchchrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\launchchrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\multiplecheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\multiplecheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\navigationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\navigationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\tableaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\tableaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\radiocheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\radiocheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|c:\\users\\raprs\\source\\repos\\nunitseleniumc#training\\selenium\\tableaccess2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D805E7-DF70-45C9-8283-6AE6A1483F01}|NUnitSeleniumC#Training.csproj|solutionrelative:selenium\\tableaccess2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -178,60 +166,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestParaUsingTestcase.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\TestParaUsingTestcase.cs",
+              "RelativeDocumentMoniker": "DataDrivenTesting\\TestParaUsingTestcase.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\TestParaUsingTestcase.cs",
+              "RelativeToolTip": "DataDrivenTesting\\TestParaUsingTestcase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:58:09.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Assigment1.cs",
               "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Assignment\\Assigment1.cs",
               "RelativeDocumentMoniker": "Assignment\\Assigment1.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Assignment\\Assigment1.cs",
-              "RelativeToolTip": "Assignment\\Assigment1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Assignment\\Assigment1.cs*",
+              "RelativeToolTip": "Assignment\\Assigment1.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T09:41:38.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "ExcelRead.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Utilites\\ExcelRead.cs",
+              "RelativeDocumentMoniker": "Utilites\\ExcelRead.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Utilites\\ExcelRead.cs",
+              "RelativeToolTip": "Utilites\\ExcelRead.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:04:36.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "BaseClass.cs",
               "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Utilites\\BaseClass.cs",
               "RelativeDocumentMoniker": "Utilites\\BaseClass.cs",
               "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Utilites\\BaseClass.cs",
               "RelativeToolTip": "Utilites\\BaseClass.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBEAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T04:09:01.323Z"
+              "WhenOpened": "2024-09-21T04:09:01.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CategoryTesting.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\CategoryTesting.cs",
-              "RelativeDocumentMoniker": "NUnitTest\\CategoryTesting.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\CategoryTesting.cs",
-              "RelativeToolTip": "NUnitTest\\CategoryTesting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Title": "TestParaTestcaseSource.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\TestParaTestcaseSource.cs",
+              "RelativeDocumentMoniker": "DataDrivenTesting\\TestParaTestcaseSource.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\TestParaTestcaseSource.cs",
+              "RelativeToolTip": "DataDrivenTesting\\TestParaTestcaseSource.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwA0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T09:13:36.272Z"
+              "WhenOpened": "2024-09-21T06:29:05.502Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LaunchChrome.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\LaunchChrome.cs",
-              "RelativeDocumentMoniker": "Selenium\\LaunchChrome.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\LaunchChrome.cs",
-              "RelativeToolTip": "Selenium\\LaunchChrome.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowBUAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "TestParamExcel.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\TestParamExcel.cs",
+              "RelativeDocumentMoniker": "DataDrivenTesting\\TestParamExcel.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\TestParamExcel.cs",
+              "RelativeToolTip": "DataDrivenTesting\\TestParamExcel.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T10:02:49.699Z"
+              "WhenOpened": "2024-09-21T06:53:54.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -241,410 +254,40 @@
               "RelativeDocumentMoniker": "DataDrivenTesting\\TestParaForLogin.cs",
               "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\TestParaForLogin.cs",
               "RelativeToolTip": "DataDrivenTesting\\TestParaForLogin.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA0wA4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T05:04:51.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LaunchEdge.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\LaunchEdge.cs",
-              "RelativeDocumentMoniker": "Selenium\\LaunchEdge.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\LaunchEdge.cs",
-              "RelativeToolTip": "Selenium\\LaunchEdge.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwC8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T10:03:07.025Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "TestParamExcel.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\TestParamExcel.cs",
-              "RelativeDocumentMoniker": "DataDrivenTesting\\TestParamExcel.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\TestParamExcel.cs",
-              "RelativeToolTip": "DataDrivenTesting\\TestParamExcel.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T06:53:54.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TestParaTestcaseSource.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\TestParaTestcaseSource.cs",
-              "RelativeDocumentMoniker": "DataDrivenTesting\\TestParaTestcaseSource.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\TestParaTestcaseSource.cs",
-              "RelativeToolTip": "DataDrivenTesting\\TestParaTestcaseSource.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T06:29:05.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "LoginInvalidCred.cs",
               "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\LoginInvalidCred.cs",
               "RelativeDocumentMoniker": "DataDrivenTesting\\LoginInvalidCred.cs",
               "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\LoginInvalidCred.cs",
               "RelativeToolTip": "DataDrivenTesting\\LoginInvalidCred.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T06:12:46.573Z"
+              "WhenOpened": "2024-09-21T06:12:46.573Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TestParaUsingTestcase.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\TestParaUsingTestcase.cs",
-              "RelativeDocumentMoniker": "DataDrivenTesting\\TestParaUsingTestcase.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\TestParaUsingTestcase.cs",
-              "RelativeToolTip": "DataDrivenTesting\\TestParaUsingTestcase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T04:58:09.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Assign1.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\Assign1.cs",
-              "RelativeDocumentMoniker": "DataDrivenTesting\\Assign1.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\DataDrivenTesting\\Assign1.cs",
-              "RelativeToolTip": "DataDrivenTesting\\Assign1.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAYwFAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T08:55:53.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ExcelRead.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Utilites\\ExcelRead.cs",
-              "RelativeDocumentMoniker": "Utilites\\ExcelRead.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Utilites\\ExcelRead.cs",
-              "RelativeToolTip": "Utilites\\ExcelRead.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T07:04:36.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BrowserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\BrowserCommand.cs",
-              "RelativeDocumentMoniker": "Selenium\\BrowserCommand.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\BrowserCommand.cs",
-              "RelativeToolTip": "Selenium\\BrowserCommand.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAUwDIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T09:12:50.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AssignWindow.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\AssignWindow.cs",
-              "RelativeDocumentMoniker": "Selenium\\AssignWindow.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\AssignWindow.cs",
-              "RelativeToolTip": "Selenium\\AssignWindow.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAiwC8AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T12:41:53.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Assign2.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\Assign2.cs",
-              "RelativeDocumentMoniker": "Selenium\\Assign2.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\Assign2.cs",
-              "RelativeToolTip": "Selenium\\Assign2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T07:45:37.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Assign1.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\Assign1.cs",
-              "RelativeDocumentMoniker": "Selenium\\Assign1.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\Assign1.cs",
-              "RelativeToolTip": "Selenium\\Assign1.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T04:16:34.877Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-09-21T04:21:01.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TableAccess2.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\TableAccess2.cs",
-              "RelativeDocumentMoniker": "Selenium\\TableAccess2.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\TableAccess2.cs",
-              "RelativeToolTip": "Selenium\\TableAccess2.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAUwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T11:36:03.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TableAccess.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\TableAccess.cs",
-              "RelativeDocumentMoniker": "Selenium\\TableAccess.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\TableAccess.cs",
-              "RelativeToolTip": "Selenium\\TableAccess.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAqwB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T10:15:22.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AssignFacebook.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\AssignFacebook.cs",
-              "RelativeDocumentMoniker": "Selenium\\AssignFacebook.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\AssignFacebook.cs",
-              "RelativeToolTip": "Selenium\\AssignFacebook.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T12:25:19.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AssignFrame.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\AssignFrame.cs",
-              "RelativeDocumentMoniker": "Selenium\\AssignFrame.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\AssignFrame.cs",
-              "RelativeToolTip": "Selenium\\AssignFrame.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIBQwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T12:32:28.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DragnDrop.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\DragnDrop.cs",
-              "RelativeDocumentMoniker": "Selenium\\DragnDrop.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\DragnDrop.cs",
-              "RelativeToolTip": "Selenium\\DragnDrop.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAiwBsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T10:09:45.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ClicknHold.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\ClicknHold.cs",
-              "RelativeDocumentMoniker": "Selenium\\ClicknHold.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\ClicknHold.cs",
-              "RelativeToolTip": "Selenium\\ClicknHold.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAIBJwCEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T10:13:23.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Actions.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\Actions.cs",
-              "RelativeDocumentMoniker": "Selenium\\Actions.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\Actions.cs",
-              "RelativeToolTip": "Selenium\\Actions.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAIBJwCMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T09:33:26.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "FileUpload.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\FileUpload.cs",
-              "RelativeDocumentMoniker": "Selenium\\FileUpload.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\FileUpload.cs",
-              "RelativeToolTip": "Selenium\\FileUpload.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAIBJwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T11:31:33.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "DatePicker.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\DatePicker.cs",
-              "RelativeDocumentMoniker": "Selenium\\DatePicker.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\DatePicker.cs",
-              "RelativeToolTip": "Selenium\\DatePicker.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAuwDcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T04:32:39.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "RadioCheck.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\RadioCheck.cs",
-              "RelativeDocumentMoniker": "Selenium\\RadioCheck.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\RadioCheck.cs",
-              "RelativeToolTip": "Selenium\\RadioCheck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T10:03:04.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "FileDownload.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\FileDownload.cs",
-              "RelativeDocumentMoniker": "Selenium\\FileDownload.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\FileDownload.cs",
-              "RelativeToolTip": "Selenium\\FileDownload.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAUwCcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T11:41:42.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "DropDown.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\DropDown.cs",
-              "RelativeDocumentMoniker": "Selenium\\DropDown.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\DropDown.cs",
-              "RelativeToolTip": "Selenium\\DropDown.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwC8AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T10:09:45.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "MultipleCheckbox.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\MultipleCheckbox.cs",
-              "RelativeDocumentMoniker": "Selenium\\MultipleCheckbox.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\MultipleCheckbox.cs",
-              "RelativeToolTip": "Selenium\\MultipleCheckbox.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAADwvyMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T09:47:36.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "AlertHandle.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\AlertHandle.cs",
-              "RelativeDocumentMoniker": "Selenium\\AlertHandle.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\AlertHandle.cs",
-              "RelativeToolTip": "Selenium\\AlertHandle.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAUwEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T10:25:20.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "NavigationCommand.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\NavigationCommand.cs",
-              "RelativeDocumentMoniker": "Selenium\\NavigationCommand.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\NavigationCommand.cs",
-              "RelativeToolTip": "Selenium\\NavigationCommand.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAqwBcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T09:28:49.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Assertions.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\Assertions.cs",
-              "RelativeDocumentMoniker": "NUnitTest\\Assertions.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\Assertions.cs",
-              "RelativeToolTip": "NUnitTest\\Assertions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T09:56:02.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "BaseClass.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\BaseClass.cs",
-              "RelativeDocumentMoniker": "NUnitTest\\BaseClass.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\BaseClass.cs",
-              "RelativeToolTip": "NUnitTest\\BaseClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T12:25:20.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 8,
               "Title": "UnitTestCalci.cs",
               "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\UnitTestCalci.cs",
               "RelativeDocumentMoniker": "NUnitTest\\UnitTestCalci.cs",
               "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\UnitTestCalci.cs",
               "RelativeToolTip": "NUnitTest\\UnitTestCalci.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwAYAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T11:29:45.87Z"
+              "WhenOpened": "2024-09-13T11:29:45.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CalciUnitTesting.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\CalciUnitTesting.cs",
-              "RelativeDocumentMoniker": "NUnitTest\\CalciUnitTesting.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\CalciUnitTesting.cs",
-              "RelativeToolTip": "NUnitTest\\CalciUnitTesting.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T10:25:59.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Test1.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\Test1.cs",
-              "RelativeDocumentMoniker": "NUnitTest\\Test1.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\Test1.cs",
-              "RelativeToolTip": "NUnitTest\\Test1.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T10:13:55.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Description.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\Description.cs",
-              "RelativeDocumentMoniker": "NUnitTest\\Description.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\Description.cs",
-              "RelativeToolTip": "NUnitTest\\Description.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T09:28:23.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 9,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "NUnitTest\\UnitTest1.cs",
@@ -652,11 +295,12 @@
               "RelativeToolTip": "NUnitTest\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T09:57:50.025Z"
+              "WhenOpened": "2024-09-13T09:57:50.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 10,
               "Title": "TestOrders.cs",
               "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\TestOrders.cs",
               "RelativeDocumentMoniker": "NUnitTest\\TestOrders.cs",
@@ -664,23 +308,25 @@
               "RelativeToolTip": "NUnitTest\\TestOrders.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAwAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T11:05:49.988Z"
+              "WhenOpened": "2024-09-13T11:05:49.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\Calculator.cs",
-              "RelativeDocumentMoniker": "NUnitTest\\Calculator.cs",
-              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\Calculator.cs",
-              "RelativeToolTip": "NUnitTest\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\Test1.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\Test1.cs",
+              "RelativeToolTip": "NUnitTest\\Test1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T10:04:11.306Z"
+              "WhenOpened": "2024-09-13T10:13:55.885Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 12,
               "Title": "SetUpTearDown.cs",
               "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\SetUpTearDown.cs",
               "RelativeDocumentMoniker": "NUnitTest\\SetUpTearDown.cs",
@@ -688,7 +334,346 @@
               "RelativeToolTip": "NUnitTest\\SetUpTearDown.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T11:22:23.73Z"
+              "WhenOpened": "2024-09-13T11:22:23.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Description.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\Description.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\Description.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\Description.cs",
+              "RelativeToolTip": "NUnitTest\\Description.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:28:23.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryTesting.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\CategoryTesting.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\CategoryTesting.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\CategoryTesting.cs",
+              "RelativeToolTip": "NUnitTest\\CategoryTesting.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:13:36.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\Calculator.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\Calculator.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\Calculator.cs",
+              "RelativeToolTip": "NUnitTest\\Calculator.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:04:11.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CalciUnitTesting.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\CalciUnitTesting.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\CalciUnitTesting.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\CalciUnitTesting.cs",
+              "RelativeToolTip": "NUnitTest\\CalciUnitTesting.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwC8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:25:59.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\BaseClass.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\BaseClass.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\BaseClass.cs",
+              "RelativeToolTip": "NUnitTest\\BaseClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:25:20.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Assertions.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\Assertions.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\Assertions.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\NUnitTest\\Assertions.cs",
+              "RelativeToolTip": "NUnitTest\\Assertions.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:56:02.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Actions.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\Actions.cs",
+              "RelativeDocumentMoniker": "Selenium\\Actions.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\Actions.cs*",
+              "RelativeToolTip": "Selenium\\Actions.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:33:26.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AlertHandle.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\AlertHandle.cs",
+              "RelativeDocumentMoniker": "Selenium\\AlertHandle.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\AlertHandle.cs*",
+              "RelativeToolTip": "Selenium\\AlertHandle.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:25:20.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Assign1.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\Assign1.cs",
+              "RelativeDocumentMoniker": "Selenium\\Assign1.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\Assign1.cs*",
+              "RelativeToolTip": "Selenium\\Assign1.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:16:34.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Assign2.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\Assign2.cs",
+              "RelativeDocumentMoniker": "Selenium\\Assign2.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\Assign2.cs*",
+              "RelativeToolTip": "Selenium\\Assign2.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:45:37.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AssignFacebook.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\AssignFacebook.cs",
+              "RelativeDocumentMoniker": "Selenium\\AssignFacebook.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\AssignFacebook.cs*",
+              "RelativeToolTip": "Selenium\\AssignFacebook.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:25:19.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AssignFrame.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\AssignFrame.cs",
+              "RelativeDocumentMoniker": "Selenium\\AssignFrame.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\AssignFrame.cs*",
+              "RelativeToolTip": "Selenium\\AssignFrame.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:32:28.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AssignWindow.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\AssignWindow.cs",
+              "RelativeDocumentMoniker": "Selenium\\AssignWindow.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\AssignWindow.cs*",
+              "RelativeToolTip": "Selenium\\AssignWindow.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:41:53.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BrowserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\BrowserCommand.cs",
+              "RelativeDocumentMoniker": "Selenium\\BrowserCommand.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\BrowserCommand.cs*",
+              "RelativeToolTip": "Selenium\\BrowserCommand.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:12:50.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClicknHold.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\ClicknHold.cs",
+              "RelativeDocumentMoniker": "Selenium\\ClicknHold.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\ClicknHold.cs*",
+              "RelativeToolTip": "Selenium\\ClicknHold.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:13:23.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DatePicker.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\DatePicker.cs",
+              "RelativeDocumentMoniker": "Selenium\\DatePicker.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\DatePicker.cs*",
+              "RelativeToolTip": "Selenium\\DatePicker.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:32:39.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DragnDrop.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\DragnDrop.cs",
+              "RelativeDocumentMoniker": "Selenium\\DragnDrop.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\DragnDrop.cs*",
+              "RelativeToolTip": "Selenium\\DragnDrop.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:09:45.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DropDown.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\DropDown.cs",
+              "RelativeDocumentMoniker": "Selenium\\DropDown.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\DropDown.cs*",
+              "RelativeToolTip": "Selenium\\DropDown.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:09:45.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FileUpload.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\FileUpload.cs",
+              "RelativeDocumentMoniker": "Selenium\\FileUpload.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\FileUpload.cs*",
+              "RelativeToolTip": "Selenium\\FileUpload.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:31:33.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FileDownload.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\FileDownload.cs",
+              "RelativeDocumentMoniker": "Selenium\\FileDownload.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\FileDownload.cs*",
+              "RelativeToolTip": "Selenium\\FileDownload.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:41:42.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LaunchChrome.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\LaunchChrome.cs",
+              "RelativeDocumentMoniker": "Selenium\\LaunchChrome.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\LaunchChrome.cs",
+              "RelativeToolTip": "Selenium\\LaunchChrome.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:02:49.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MultipleCheckbox.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\MultipleCheckbox.cs",
+              "RelativeDocumentMoniker": "Selenium\\MultipleCheckbox.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\MultipleCheckbox.cs*",
+              "RelativeToolTip": "Selenium\\MultipleCheckbox.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:47:36.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NavigationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\NavigationCommand.cs",
+              "RelativeDocumentMoniker": "Selenium\\NavigationCommand.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\NavigationCommand.cs*",
+              "RelativeToolTip": "Selenium\\NavigationCommand.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:28:49.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TableAccess.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\TableAccess.cs",
+              "RelativeDocumentMoniker": "Selenium\\TableAccess.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\TableAccess.cs*",
+              "RelativeToolTip": "Selenium\\TableAccess.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:15:22.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RadioCheck.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\RadioCheck.cs",
+              "RelativeDocumentMoniker": "Selenium\\RadioCheck.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\RadioCheck.cs*",
+              "RelativeToolTip": "Selenium\\RadioCheck.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:03:04.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TableAccess2.cs",
+              "DocumentMoniker": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\TableAccess2.cs",
+              "RelativeDocumentMoniker": "Selenium\\TableAccess2.cs",
+              "ToolTip": "C:\\Users\\raprs\\source\\repos\\NUnitSeleniumC#Training\\Selenium\\TableAccess2.cs*",
+              "RelativeToolTip": "Selenium\\TableAccess2.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:36:03.561Z",
+              "EditorCaption": ""
             }
           ]
         }

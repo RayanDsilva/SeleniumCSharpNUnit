@@ -1,0 +1,45 @@
+{
+  "uuid": "ccdbc56f-47e9-48dd-a7dd-4bc0f6149868",
+  "historyId": "09251ee4141a2a01a964585186e773a8",
+  "testCaseId": "c12d8c7e698062eb1e926016c14b35a9",
+  "fullName": "NUnitSeleniumC#Training:NUnitSeleniumC_Training.NUnitTest.CalciUnitTesting.AddTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOMXKVR9ASYDM"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumC_Training.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "AddTest"
+    },
+    {
+      "name": "testClass",
+      "value": "CalciUnitTesting"
+    }
+  ],
+  "links": [],
+  "name": "AddTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1727420688383,
+  "stop": 1727420688397
+}
